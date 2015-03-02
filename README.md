@@ -24,8 +24,7 @@ A collection of articles/sites I may want to refer to later
 * [Team Tree House](https://teamtreehouse.com/) ("Web Design &amp; iOS Development"). **Not free**
 * [Code Academy](http://www.codecademy.com/) (HTML &amp; CSS, Javascript, jQuery, Python, Ruby, PHP)
 * [Jump Start Lab](http://jumpstartlab.com/) (Ruby on Rails, jQuery, JavaScript, ExtJS, Git)
-
-If you use Matlab the best website I've found [Cody](https://www.mathworks.com/matlabcentral/cody/). https://www.mathworks.com/matlabcentral/about/cody/
+* [Matlab](https://www.mathworks.com/matlabcentral/cody/). https://www.mathworks.com/matlabcentral/about/cody/
 
 ####Mac
 * [NTFS Mount](http://www.macbreaker.com/2014/06/how-to-enable-writing-to-ntfs-hard.html)
