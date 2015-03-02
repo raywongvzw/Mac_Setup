@@ -13,7 +13,7 @@ A collection of articles/sites I may want to refer to later
 * [Devdocs](http://devdocs.io/)
 
 ####E-books
-* [Free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development
+* [Free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development)
 * [More free programming books](http://www.linuxlinks.com/article/20150201134045961/BeginnerBooks.html)
 
 ####Programs
@@ -31,7 +31,7 @@ If you use Matlab the best website I've found [Cody](https://www.mathworks.com/m
 * [NTFS Mount](http://www.macbreaker.com/2014/06/how-to-enable-writing-to-ntfs-hard.html)
 * [Hacker Guide to Setting up your Mac](http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac)
 * [Develop Mac Setup](http://alexw.me/2013/10/definitive-guid-to-development-mac-setup/)
-* [Terminal Appearance[(http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/)
+* [Terminal Appearance](http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/)
 * [Terminal Colors](http://www.marinamele.com/2014/05/customize-colors-of-your-terminal-in-mac-os-x.html)
 * [Brew](http://brew.sh/)
 
