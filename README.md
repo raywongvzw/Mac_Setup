@@ -7,6 +7,7 @@ A collection of articles/sites I may want to refer to later
 * [Metaclasses](http://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/)
 * [Underscores](http://shahriar.svbtle.com/underscores-in-python)
 * [Flask](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/#.VOt14cUQSQg.reddit)
+* [Python Idioms](http://prooffreaderplus.blogspot.ca/2014/11/top-10-python-idioms-i-wished-id.html)
 
 
 ####Documentation
