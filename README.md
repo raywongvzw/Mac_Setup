@@ -8,6 +8,7 @@ A collection of articles/sites I may want to refer to later
 * [Underscores](http://shahriar.svbtle.com/underscores-in-python)
 * [Flask](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/#.VOt14cUQSQg.reddit)
 * [Python Idioms](http://prooffreaderplus.blogspot.ca/2014/11/top-10-python-idioms-i-wished-id.html)
+* [Flask Video - MS](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-creating-websites-using-python-and-flask)
 
 
 ####Documentation
