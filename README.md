@@ -9,6 +9,10 @@ A collection of articles/sites I may want to refer to later
 * [Flask](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/#.VOt14cUQSQg.reddit)
 * [Python Idioms](http://prooffreaderplus.blogspot.ca/2014/11/top-10-python-idioms-i-wished-id.html)
 * [Flask Video - MS](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-creating-websites-using-python-and-flask)
+* [Sample Project](https://github.com/pypa/sampleproject)
+* [Python Guide](https://github.com/kennethreitz/python-guide)
+* [Python Talks](https://github.com/hellerve/programming-talks)
+
 
 
 ####Documentation
@@ -39,3 +43,4 @@ A collection of articles/sites I may want to refer to later
 ####Misc
 * [Google Guide to Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [Retirement Calculator](http://www.forbes.com/sites/robertberger/2015/03/03/how-much-of-your-income-should-you-save/)
+* [Hosting on Github + email](https://medium.com/@swag/so-you-want-to-build-a-website-f3c6d119062f)
