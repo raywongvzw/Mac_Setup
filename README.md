@@ -44,3 +44,4 @@ A collection of articles/sites I may want to refer to later
 * [Google Guide to Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [Retirement Calculator](http://www.forbes.com/sites/robertberger/2015/03/03/how-much-of-your-income-should-you-save/)
 * [Hosting on Github + email](https://medium.com/@swag/so-you-want-to-build-a-website-f3c6d119062f)
+* [Building an App on AWS](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1)
