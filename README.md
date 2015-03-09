@@ -17,6 +17,7 @@ A collection of articles/sites I may want to refer to later
 
 ####Documentation
 * [Devdocs](http://devdocs.io/)
+* [Flask](http://flask.pocoo.org/docs/0.10/)
 
 ####E-books
 * [Free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development)
