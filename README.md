@@ -11,6 +11,7 @@ A collection of articles/sites I may want to refer to later
 * [Flask Video - MS](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-creating-websites-using-python-and-flask)
 * [Sample Project](https://github.com/pypa/sampleproject)
 * [Python Guide](https://github.com/kennethreitz/python-guide)
+* [Virtual Env](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 * [Python Talks](https://github.com/hellerve/programming-talks)
 
 
