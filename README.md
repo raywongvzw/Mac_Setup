@@ -41,6 +41,7 @@ A collection of articles/sites I may want to refer to later
 * [Terminal Appearance](http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/)
 * [Terminal Colors](http://www.marinamele.com/2014/05/customize-colors-of-your-terminal-in-mac-os-x.html)
 * [Brew](http://brew.sh/)
+* [Yosemite 10.10.2 WiFi Slowness Fix](http://tech-zee.com/how-to-fix-slow-wifi-issues-on-os-x-yosemite-on-imac-macbook-pro/)
 
 ####Misc
 * [Google Guide to Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
