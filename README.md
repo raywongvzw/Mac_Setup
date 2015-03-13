@@ -1,6 +1,6 @@
 #Readings
 
-A collection of articles/sites I may want to refer to later
+A collection of articles/sites/videos I may want to refer to later
 
 ####Python
 * [Decorators](https://codefisher.org/catch/blog/2015/02/10/python-decorators-and-context-managers/)
