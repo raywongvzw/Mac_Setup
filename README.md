@@ -13,7 +13,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [Python Guide](https://github.com/kennethreitz/python-guide)
 * [Virtual Env](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 * [Python Talks](https://github.com/hellerve/programming-talks)
-
+* [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
 
 
 ####Documentation
