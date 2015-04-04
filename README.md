@@ -27,7 +27,7 @@ A collection of articles/sites/videos I may want to refer to later
 ####Programs
 * [Github Student Developer Pack](https://github.com/blog/1900-the-best-developer-tools-now-free-for-students)
 
-###Courses
+####Courses
 * [Exercism](http://exercism.io/) (Clojure, CoffeeScript, C#, C++, Elixir, Erlang, F#, Go, Haskell, JavaScript, Lua, Objective-C, OCaml, Perl5, Python, Ruby, Scala, and Swift.)
 * [Team Tree House](https://teamtreehouse.com/) ("Web Design &amp; iOS Development"). **Not free**
 * [Code Academy](http://www.codecademy.com/) (HTML &amp; CSS, Javascript, jQuery, Python, Ruby, PHP)
@@ -42,6 +42,8 @@ A collection of articles/sites/videos I may want to refer to later
 * [Terminal Colors](http://www.marinamele.com/2014/05/customize-colors-of-your-terminal-in-mac-os-x.html)
 * [Brew](http://brew.sh/)
 * [Yosemite 10.10.2 WiFi Slowness Fix](http://tech-zee.com/how-to-fix-slow-wifi-issues-on-os-x-yosemite-on-imac-macbook-pro/)
+* [Homebrew FAQ](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md#faq)
+* [Pip List Options](https://pip.pypa.io/en/latest/reference/pip_list.html)
 
 ####Misc
 * [Google Guide to Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
