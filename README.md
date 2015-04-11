@@ -33,6 +33,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [Code Academy](http://www.codecademy.com/) (HTML &amp; CSS, Javascript, jQuery, Python, Ruby, PHP)
 * [Jump Start Lab](http://jumpstartlab.com/) (Ruby on Rails, jQuery, JavaScript, ExtJS, Git)
 * [Matlab](https://www.mathworks.com/matlabcentral/cody/)
+* [hacker.io Programming Tutorials](http://hackr.io/)
 
 ####Mac
 * [NTFS Mount](http://www.macbreaker.com/2014/06/how-to-enable-writing-to-ntfs-hard.html)
