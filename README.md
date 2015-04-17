@@ -14,7 +14,8 @@ A collection of articles/sites/videos I may want to refer to later
 * [Virtual Env](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 * [Python Talks](https://github.com/hellerve/programming-talks)
 * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
-
+* [String Formatting](http://pyformat.info/)
+* [Exception Logging](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
 
 ####Documentation
 * [Devdocs](http://devdocs.io/)
