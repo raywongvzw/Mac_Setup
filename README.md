@@ -17,6 +17,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [String Formatting](http://pyformat.info/)
 * [Exception Logging](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
 * [Flask + SQLAlchemy](https://pythonhosted.org/Flask-SQLAlchemy/quickstart.html)
+* [Flask Reqsources](https://github.com/humiaozuzu/awesome-flask)
 
 ####Documentation
 * [Devdocs](http://devdocs.io/)
