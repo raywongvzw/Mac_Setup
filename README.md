@@ -48,6 +48,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [Yosemite 10.10.2 WiFi Slowness Fix](http://tech-zee.com/how-to-fix-slow-wifi-issues-on-os-x-yosemite-on-imac-macbook-pro/)
 * [Homebrew FAQ](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md#faq)
 * [Pip List Options](https://pip.pypa.io/en/latest/reference/pip_list.html)
+* [Wifi slow](http://www.engadget.com/2014/11/25/heres-the-root-cause-and-a-workaround-for-ios-8-and-yosemite-wi/)
 
 ####Misc
 * [Google Guide to Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
