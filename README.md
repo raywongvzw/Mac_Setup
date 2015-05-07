@@ -58,3 +58,4 @@ A collection of articles/sites/videos I may want to refer to later
 * [Building an App on AWS](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1)
 * [Common Git Screwups](http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
 * [Peggo](http://peggo.co/)
+* [Resume Sites](http://lifehacker.com/the-best-places-to-post-your-resume-depending-on-your-1700927606)
