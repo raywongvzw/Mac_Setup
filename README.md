@@ -18,6 +18,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [Exception Logging](https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/)
 * [Flask + SQLAlchemy](https://pythonhosted.org/Flask-SQLAlchemy/quickstart.html)
 * [Flask Resources](https://github.com/humiaozuzu/awesome-flask)
+* [Flask + AWS](https://medium.com/@rodkey/deploying-a-flask-application-on-aws-a72daba6bb80)
 
 ####Documentation
 * [Devdocs](http://devdocs.io/)
