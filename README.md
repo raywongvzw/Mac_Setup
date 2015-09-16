@@ -61,3 +61,4 @@ A collection of articles/sites/videos I may want to refer to later
 * [Common Git Screwups](http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
 * [Peggo](http://peggo.co/)
 * [Resume Sites](http://lifehacker.com/the-best-places-to-post-your-resume-depending-on-your-1700927606)
+* [Lightroom](http://blogs.adobe.com/jkost/lightroom-training-videos?PID=2159997)
