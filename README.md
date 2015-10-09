@@ -62,3 +62,4 @@ A collection of articles/sites/videos I may want to refer to later
 * [Peggo](http://peggo.co/)
 * [Resume Sites](http://lifehacker.com/the-best-places-to-post-your-resume-depending-on-your-1700927606)
 * [Lightroom](http://blogs.adobe.com/jkost/lightroom-training-videos?PID=2159997)
+* [Excel Budgeting](http://www.gobankingrates.com/personal-finance/11-excel-shortcuts-make-budgeting-easy/)
