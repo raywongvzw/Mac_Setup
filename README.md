@@ -54,6 +54,10 @@ A collection of articles/sites/videos I may want to refer to later
 * [Pip List Options](https://pip.pypa.io/en/latest/reference/pip_list.html)
 * [Wifi slow](http://www.engadget.com/2014/11/25/heres-the-root-cause-and-a-workaround-for-ios-8-and-yosemite-wi/)
 
+####Photography Workflow
+* [Lightroom](http://blogs.adobe.com/jkost/lightroom-training-videos?PID=2159997)
+* [Free Workflow Software](http://www.rileybrandt.com/2015/10/15/foss-photo-flow-2015/)
+
 ####Misc
 * [Google Guide to Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [Retirement Calculator](http://www.forbes.com/sites/robertberger/2015/03/03/how-much-of-your-income-should-you-save/)
@@ -62,5 +66,5 @@ A collection of articles/sites/videos I may want to refer to later
 * [Common Git Screwups](http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
 * [Peggo](http://peggo.co/)
 * [Resume Sites](http://lifehacker.com/the-best-places-to-post-your-resume-depending-on-your-1700927606)
-* [Lightroom](http://blogs.adobe.com/jkost/lightroom-training-videos?PID=2159997)
 * [Excel Budgeting](http://www.gobankingrates.com/personal-finance/11-excel-shortcuts-make-budgeting-easy/)
+
