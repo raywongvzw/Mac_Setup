@@ -57,6 +57,7 @@ A collection of articles/sites/videos I may want to refer to later
 ####Photography Workflow
 * [Lightroom](http://blogs.adobe.com/jkost/lightroom-training-videos?PID=2159997)
 * [Free Workflow Software](http://www.rileybrandt.com/2015/10/15/foss-photo-flow-2015/)
+* [Lightroom Optimization](https://helpx.adobe.com/lightroom/kb/optimize-performance-lightroom.html)
 
 ####Misc
 * [Google Guide to Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
