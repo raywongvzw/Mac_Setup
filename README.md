@@ -55,11 +55,12 @@ A collection of articles/sites/videos I may want to refer to later
 * [Wifi slow](http://www.engadget.com/2014/11/25/heres-the-root-cause-and-a-workaround-for-ios-8-and-yosemite-wi/)
 * [NTFS](http://coolestguidesontheplanet.com/how-to-write-to-ntfs-external-disk-drives-from-os-x-10-11-el-capitan/)
 
-####Photography Workflow
+####Photography
 * [Lightroom](http://blogs.adobe.com/jkost/lightroom-training-videos?PID=2159997)
 * [Free Workflow Software](http://www.rileybrandt.com/2015/10/15/foss-photo-flow-2015/)
 * [Lightroom Optimization](https://helpx.adobe.com/lightroom/kb/optimize-performance-lightroom.html)
 * [Disable Apple Photos Default Open](https://www.reddit.com/r/photography/comments/3xkrw5/tip_how_to_stop_osx_apple_photos_from_launching/)
+* [NJ Photo Spots](http://improvephotography.com/30189/top-35-places-shoot-new-jersey/)
 
 ####Misc
 * [Google Guide to Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
