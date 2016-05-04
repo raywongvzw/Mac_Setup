@@ -61,6 +61,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [Lightroom Optimization](https://helpx.adobe.com/lightroom/kb/optimize-performance-lightroom.html)
 * [Disable Apple Photos Default Open](https://www.reddit.com/r/photography/comments/3xkrw5/tip_how_to_stop_osx_apple_photos_from_launching/)
 * [NJ Photo Spots](http://improvephotography.com/30189/top-35-places-shoot-new-jersey/)
+* [imgur tips & tricks](http://imgur.com/gallery/Hyq0J)
 
 ####Misc
 * [Google Guide to Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
