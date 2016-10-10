@@ -29,6 +29,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [Free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development)
 * [More free programming books](http://www.linuxlinks.com/article/20150201134045961/BeginnerBooks.html)
 * [16 programming books](http://sixrevisions.com/lists/free-books-code/)
+* [Free oreilly ebooks](http://www.oreilly.com/programming/free/)
 
 ####Programs
 * [Github Student Developer Pack](https://github.com/blog/1900-the-best-developer-tools-now-free-for-students)
