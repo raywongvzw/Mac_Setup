@@ -55,6 +55,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [Pip List Options](https://pip.pypa.io/en/latest/reference/pip_list.html)
 * [Wifi slow](http://www.engadget.com/2014/11/25/heres-the-root-cause-and-a-workaround-for-ios-8-and-yosemite-wi/)
 * [NTFS](http://coolestguidesontheplanet.com/how-to-write-to-ntfs-external-disk-drives-from-os-x-10-11-el-capitan/)
+* [Putty Colors](http://color.smyck.org/)
 
 ####Photography
 * [Lightroom](http://blogs.adobe.com/jkost/lightroom-training-videos?PID=2159997)
