@@ -20,6 +20,8 @@ A collection of articles/sites/videos I may want to refer to later
 * [Flask Resources](https://github.com/humiaozuzu/awesome-flask)
 * [Flask + AWS](https://medium.com/@rodkey/deploying-a-flask-application-on-aws-a72daba6bb80)
 * [AWS Python3 Setup](https://www.digitalocean.com/community/tutorials/how-to-set-up-python-2-7-6-and-3-3-3-on-centos-6-4)
+* [VIM Setup](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
+* [Tips and Tricks](http://www.techbeamers.com/essential-python-tips-tricks-programmers/)
 
 ####Documentation
 * [Devdocs](http://devdocs.io/)
