@@ -22,6 +22,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [AWS Python3 Setup](https://www.digitalocean.com/community/tutorials/how-to-set-up-python-2-7-6-and-3-3-3-on-centos-6-4)
 * [VIM Setup](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
 * [Tips and Tricks](http://www.techbeamers.com/essential-python-tips-tricks-programmers/)
+* [The Hitchiker's Guide to Python](http://python-guide-pt-br.readthedocs.io/en/latest/#)
 
 ####Documentation
 * [Devdocs](http://devdocs.io/)
