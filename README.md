@@ -23,6 +23,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [VIM Setup](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
 * [Tips and Tricks](http://www.techbeamers.com/essential-python-tips-tricks-programmers/)
 * [The Hitchiker's Guide to Python](http://python-guide-pt-br.readthedocs.io/en/latest/#)
+* [Gooey - wx in virtualenv](https://wiki.wxpython.org/wxPythonVirtualenvOnMac)
 
 ####Documentation
 * [Devdocs](http://devdocs.io/)
