@@ -25,6 +25,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [The Hitchiker's Guide to Python](http://python-guide-pt-br.readthedocs.io/en/latest/#)
 * [Gooey - wx in virtualenv1](https://wiki.wxpython.org/wxPythonVirtualenvOnMac)
 * [Gooey - wx in virtualenv2](https://stackoverflow.com/questions/10457647/how-do-i-install-wxpython-in-virtualenv)
+* [Tesseract Lambda](https://stackoverflow.com/questions/33588262/tesseract-ocr-on-aws-lambda-via-virtualenv)
 
 ####Documentation
 * [Devdocs](http://devdocs.io/)
