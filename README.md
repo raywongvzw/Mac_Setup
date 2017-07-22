@@ -1,8 +1,8 @@
-#Readings
+#Readings#
 
 A collection of articles/sites/videos I may want to refer to later
 
-####Python
+####Python####
 * [Decorators](https://codefisher.org/catch/blog/2015/02/10/python-decorators-and-context-managers/)
 * [Metaclasses](http://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/)
 * [Underscores](http://shahriar.svbtle.com/underscores-in-python)
@@ -26,21 +26,23 @@ A collection of articles/sites/videos I may want to refer to later
 * [Gooey - wx in virtualenv1](https://wiki.wxpython.org/wxPythonVirtualenvOnMac)
 * [Gooey - wx in virtualenv2](https://stackoverflow.com/questions/10457647/how-do-i-install-wxpython-in-virtualenv)
 * [Tesseract Lambda](https://stackoverflow.com/questions/33588262/tesseract-ocr-on-aws-lambda-via-virtualenv)
+* [AWS Lambda1](http://docs.aws.amazon.com/lambda/latest/dg/with-s3-example-deployment-pkg.html)
+* [AWS Lambda2](http://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html)
 
-####Documentation
+####Documentation####
 * [Devdocs](http://devdocs.io/)
 * [Flask](http://flask.pocoo.org/docs/0.10/)
 
-####E-books
+####E-books####
 * [Free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development)
 * [More free programming books](http://www.linuxlinks.com/article/20150201134045961/BeginnerBooks.html)
 * [16 programming books](http://sixrevisions.com/lists/free-books-code/)
 * [Free oreilly ebooks](http://www.oreilly.com/programming/free/)
 
-####Programs
+####Programs####
 * [Github Student Developer Pack](https://github.com/blog/1900-the-best-developer-tools-now-free-for-students)
 
-####Courses
+####Courses####
 * [Exercism](http://exercism.io/) (Clojure, CoffeeScript, C#, C++, Elixir, Erlang, F#, Go, Haskell, JavaScript, Lua, Objective-C, OCaml, Perl5, Python, Ruby, Scala, and Swift.)
 * [Team Tree House](https://teamtreehouse.com/) ("Web Design &amp; iOS Development"). **Not free**
 * [Code Academy](http://www.codecademy.com/) (HTML &amp; CSS, Javascript, jQuery, Python, Ruby, PHP)
@@ -49,7 +51,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [hacker.io Programming Tutorials](http://hackr.io/)
 * [Pythonprogramming](http://pythonprogramming.net/dashboard/)
 
-####Mac
+####Mac####
 * [NTFS Mount](http://www.macbreaker.com/2014/06/how-to-enable-writing-to-ntfs-hard.html)
 * [Hacker Guide to Setting up your Mac](http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac)
 * [Develop Mac Setup](http://alexw.me/2013/10/definitive-guid-to-development-mac-setup/)
@@ -63,7 +65,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [NTFS](http://coolestguidesontheplanet.com/how-to-write-to-ntfs-external-disk-drives-from-os-x-10-11-el-capitan/)
 * [Putty Colors](http://color.smyck.org/)
 
-####Photography
+####Photography####
 * [Lightroom](http://blogs.adobe.com/jkost/lightroom-training-videos?PID=2159997)
 * [Free Workflow Software](http://www.rileybrandt.com/2015/10/15/foss-photo-flow-2015/)
 * [Lightroom Optimization](https://helpx.adobe.com/lightroom/kb/optimize-performance-lightroom.html)
@@ -72,7 +74,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [imgur tips & tricks](http://imgur.com/gallery/Hyq0J)
 * [instgram sizes](http://www.itsworthashot.com/preparing-images-for-instagram/)
 
-####Misc
+####Misc####
 * [Google Guide to Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [Retirement Calculator](http://www.forbes.com/sites/robertberger/2015/03/03/how-much-of-your-income-should-you-save/)
 * [Hosting on Github + email](https://medium.com/@swag/so-you-want-to-build-a-website-f3c6d119062f)
