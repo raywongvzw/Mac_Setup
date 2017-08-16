@@ -29,6 +29,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [AWS Lambda1](http://docs.aws.amazon.com/lambda/latest/dg/with-s3-example-deployment-pkg.html)
 * [AWS Lambda2](http://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html)
 * [Asyncio](https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32)
+* [Python3 Module of the Week](https://pymotw.com/3/)
 
 #### Documentation ####
 * [Devdocs](http://devdocs.io/)
