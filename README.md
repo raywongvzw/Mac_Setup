@@ -28,6 +28,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [Tesseract Lambda](https://stackoverflow.com/questions/33588262/tesseract-ocr-on-aws-lambda-via-virtualenv)
 * [AWS Lambda1](http://docs.aws.amazon.com/lambda/latest/dg/with-s3-example-deployment-pkg.html)
 * [AWS Lambda2](http://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html)
+* [Asyncio](https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32)
 
 #### Documentation ####
 * [Devdocs](http://devdocs.io/)
