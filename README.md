@@ -66,6 +66,8 @@ A collection of articles/sites/videos I may want to refer to later
 * [Wifi slow](http://www.engadget.com/2014/11/25/heres-the-root-cause-and-a-workaround-for-ios-8-and-yosemite-wi/)
 * [NTFS](http://coolestguidesontheplanet.com/how-to-write-to-ntfs-external-disk-drives-from-os-x-10-11-el-capitan/)
 * [Putty Colors](http://color.smyck.org/)
+* [fzf](https://github.com/junegunn/fzf)
+* [zsh themes](https://github.com/robbyrussell/oh-my-zsh/wiki/themes)
 
 #### Photography ####
 * [Lightroom](http://blogs.adobe.com/jkost/lightroom-training-videos?PID=2159997)
@@ -89,5 +91,3 @@ A collection of articles/sites/videos I may want to refer to later
 * [Self Sign Cert](http://stackoverflow.com/questions/10175812/how-to-create-a-self-signed-certificate-with-openssl/27931596#27931596)
 * [8 Presentation Openers that Grab Your Audience](http://www.sparkol.com/engage/8-presentation-openers-that-grab-your-audience-from-the-get-go/)
 * [APIs](https://www.programmableweb.com/category/all/apis)
-* [fzf](https://github.com/junegunn/fzf)
-* [zsh themes](https://github.com/robbyrussell/oh-my-zsh/wiki/themes)
