@@ -91,3 +91,4 @@ A collection of articles/sites/videos I may want to refer to later
 * [Self Sign Cert](http://stackoverflow.com/questions/10175812/how-to-create-a-self-signed-certificate-with-openssl/27931596#27931596)
 * [8 Presentation Openers that Grab Your Audience](http://www.sparkol.com/engage/8-presentation-openers-that-grab-your-audience-from-the-get-go/)
 * [APIs](https://www.programmableweb.com/category/all/apis)
+* [More APIs](https://github.com/toddmotto/public-apis)
