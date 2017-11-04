@@ -69,6 +69,9 @@ A collection of articles/sites/videos I may want to refer to later
 * [fzf](https://github.com/junegunn/fzf)
 * [zsh themes](https://github.com/robbyrussell/oh-my-zsh/wiki/themes)
 
+#### Kubernetes ####
+* [Kubernetes] (https://gist.github.com/kevin-smets/b91a34cea662d0c523968472a81788f7)
+
 #### Photography ####
 * [Lightroom](http://blogs.adobe.com/jkost/lightroom-training-videos?PID=2159997)
 * [Free Workflow Software](http://www.rileybrandt.com/2015/10/15/foss-photo-flow-2015/)
