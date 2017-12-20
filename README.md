@@ -74,6 +74,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [Kubernetes Basic Commands](https://gist.github.com/kevin-smets/b91a34cea662d0c523968472a81788f7)
 * [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 * [Redhat Kubernetes Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/getting_started_with_kubernetes/get_started_orchestrating_containers_with_kubernetes)
+* [Install Kubeadm](https://kubernetes.io/docs/setup/independent/install-kubeadm/)
 
 #### Photography ####
 * [Lightroom](http://blogs.adobe.com/jkost/lightroom-training-videos?PID=2159997)
