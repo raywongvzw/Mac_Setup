@@ -87,7 +87,7 @@ mkdir -p ~/.vim/budle
 cd ~/.vim/bundle
 git clone https://github.com/Valloric/YouCompleteMe.git
 git submodule update --init --recursive
-./install.py --all
+./install.py --js-completer --java-completer
 ```
 
 Add into ~/.zpreztorc
