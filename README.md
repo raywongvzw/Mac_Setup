@@ -63,11 +63,6 @@ brew install \
 ```
 
 ## Post Brew ##
-Add this your env
-```bash
-export HOMEBREW_NO_ANALYTICS=1
-```
-
 ```bash
 brew cask alfred link
 
@@ -106,7 +101,16 @@ zstyle ':prezto:module:prompt' theme 'paradox'
 ```
 
 Go to System Preferences
+
 Go to Users and Groups
+
 Unlock via the lock icon
+
 Right-click (or dual-click) on your user and go to ‘Advanced Options’
+
 Change your shell from /bin/bash to /usr/local/bin/zsh
+
+Add this your env
+```bash
+export HOMEBREW_NO_ANALYTICS=1
+```
