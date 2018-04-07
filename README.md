@@ -130,6 +130,17 @@ if _has fzf && _has ag; then
 fi
 ```
 
+Add into .vimrc
+
+```bash
+call plug#begin('~/.vim/plugged')
+Plug 'Valloric/YouCompleteMe'
+Plug 'vim-scripts/indentpython.vim'
+Plug 'scrooloose/syntastic'
+Plug 'nvie/vim-flake8'
+call plug#end()
+```
+
 ```bash
 defaults write com.apple.dock workspaces-auto-swoosh -bool NO
 killall Dock
