@@ -108,7 +108,7 @@ Unlock via the lock icon
 
 Right-click (or dual-click) on your user and go to ‘Advanced Options’
 
-Change your shell from /bin/bash to /usr/local/bin/zsh
+Change your shell from /bin/bash to /bin/zsh
 
 Add this your env
 ```bash
