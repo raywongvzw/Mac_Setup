@@ -263,7 +263,11 @@ let g:ycm_autoclose_preview_window_after_completion=1
 map <leader>g  :YcmCompleter GoToDefinitionElseDeclaration<CR>
 ```
 
+Reload .vimrc and :PlugInstall to install plugins.
+
 ```bash
 defaults write com.apple.dock workspaces-auto-swoosh -bool NO
 killall Dock
 ```
+
+
