@@ -64,6 +64,8 @@ brew install \
 
 ## Post Brew ##
 ```bash
+sudo dscl . -create /Users/$USER UserShell /usr/local/bin/zsh
+
 brew cask alfred link
 
 $(brew --prefix)/opt/fzf/install
@@ -99,16 +101,6 @@ zstyle ':prezto:load' pmodule \
   'utility'
 zstyle ':prezto:module:prompt' theme 'paradox'
 ```
-
-Go to System Preferences
-
-Go to Users and Groups
-
-Unlock via the lock icon
-
-Right-click (or dual-click) on your user and go to ‘Advanced Options’
-
-Change your shell from /bin/bash to /bin/zsh
 
 Add this your env
 ```bash
