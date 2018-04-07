@@ -66,16 +66,14 @@ brew install \
 ```bash
 sudo dscl . -create /Users/$USER UserShell /usr/local/bin/zsh
 
-brew cask alfred link
-
-$(brew --prefix)/opt/fzf/install
-
 git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
 
 setopt EXTENDED_GLOB
 for rcfile in ""${ZDOTDIR:-$HOME}""/.zprezto/runcoms/^README.md(.N); do
   ln -s ""$rcfile"" ""${ZDOTDIR:-$HOME}/.${rcfile:t}""
 done
+
+$(brew --prefix)/opt/fzf/install
 ```
 
 Add into ~/.zpreztorc
@@ -102,7 +100,7 @@ zstyle ':prezto:load' pmodule \
 zstyle ':prezto:module:prompt' theme 'paradox'
 ```
 
-Add this your env
+Add this into ~/.zshrc
 ```bash
 export HOMEBREW_NO_ANALYTICS=1
 ```
