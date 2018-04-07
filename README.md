@@ -40,7 +40,7 @@ brew cask install --appdir="/Applications" \
 ## Brew Install ##
 ```bash
 brew install \
-    ack \
+    ag \
     bash \
     chromedriver \
     coreutils \
