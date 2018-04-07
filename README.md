@@ -70,5 +70,40 @@ export HOMEBREW_NO_ANALYTICS=1
 
 ```bash
 brew cask alfred link
+
 $(brew --prefix)/opt/fzf/install
+
+git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
+"setopt EXTENDED_GLOB
+for rcfile in ""${ZDOTDIR:-$HOME}""/.zprezto/runcoms/^README.md(.N); do
+  ln -s ""$rcfile"" ""${ZDOTDIR:-$HOME}/.${rcfile:t}""
+done"
 ```
+
+Add into ~/.zpreztorc
+
+zstyle ':prezto:load' pmodule \
+  'archive' \
+  'autosuggestions' \
+  'completion' \
+  'directory' \
+  'docker' \
+  'editor' \
+  'environment' \
+  'git' \
+  'history-substring-search' \
+  'history' \
+  'homebrew' \
+  'prompt' \
+  'spectrum' \
+  'syntax-highlighting' \
+  'syntax-highlighting' \
+  'terminal' \
+  'utility'
+zstyle ':prezto:module:prompt' theme 'paradox'"
+
+Go to System Preferences
+Go to Users and Groups
+Unlock via the lock icon
+Right-click (or dual-click) on your user and go to ‘Advanced Options’
+Change your shell from /bin/bash to /usr/local/bin/zsh
