@@ -32,7 +32,7 @@ brew cask install --appdir="/Applications" \
     spectacle \
     sublime-text \
     the-unarchiver \
-    vagrant
+    vagrant \
     virtualbox
 ```
 
