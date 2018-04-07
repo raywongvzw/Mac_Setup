@@ -14,6 +14,7 @@ brew cask install --appdir="/Applications" \
     alfred \
     android-file-transfer \
     appcleaner \
+    bartender \
     Caskroom/versions/java8 \
     citrix-receiver \
     cheatsheet \
