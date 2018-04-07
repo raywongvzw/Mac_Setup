@@ -77,6 +77,10 @@ done
 $(brew --prefix)/opt/fzf/install
 
 curl -fLo curl ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+
+mkdir -p ~/.vim/swaps
+mkdir -p ~/.vim/backups
+mkdir -p ~/vim/undo
 ```
 
 Add into ~/.zpreztorc
