@@ -29,6 +29,7 @@ brew cask install --appdir="/Applications" \
     postman \
     skitch \
     spectacle \
+    sts \
     sublime-text \
     the-unarchiver \
     vagrant \
