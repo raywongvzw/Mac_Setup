@@ -43,6 +43,7 @@ brew install \
     ag \
     bash \
     chromedriver \
+    cmake \
     coreutils \
     curl \
     dos2unix \
@@ -82,6 +83,11 @@ mkdir -p ~/.vim/swaps
 mkdir -p ~/.vim/backups
 mkdir -p ~/.vim/undo
 mkdir -p ~/.vim/budle
+
+cd ~/.vim/bundle
+git clone https://github.com/Valloric/YouCompleteMe.git
+git submodule update --init --recursive
+./install.py --all
 ```
 
 Add into ~/.zpreztorc
