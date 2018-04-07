@@ -5,6 +5,7 @@
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew doctor
 brew update
+brew analytics off
 ```
 
 ## Brew Cask ##
@@ -62,6 +63,11 @@ brew install \
 ```
 
 ## Post Brew ##
+Add this your env
+```bash
+export HOMEBREW_NO_ANALYTICS=1
+```
+
 ```bash
 brew cask alfred link
 $(brew --prefix)/opt/fzf/install
