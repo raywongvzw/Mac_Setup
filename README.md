@@ -80,7 +80,8 @@ curl -fLo curl ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercont
 
 mkdir -p ~/.vim/swaps
 mkdir -p ~/.vim/backups
-mkdir -p ~/vim/undo
+mkdir -p ~/.vim/undo
+mkdir -p ~/.vim/budle
 ```
 
 Add into ~/.zpreztorc
