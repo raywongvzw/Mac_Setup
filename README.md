@@ -82,6 +82,7 @@ done"
 
 Add into ~/.zpreztorc
 
+```
 zstyle ':prezto:load' pmodule \
   'archive' \
   'autosuggestions' \
@@ -100,7 +101,8 @@ zstyle ':prezto:load' pmodule \
   'syntax-highlighting' \
   'terminal' \
   'utility'
-zstyle ':prezto:module:prompt' theme 'paradox'"
+zstyle ':prezto:module:prompt' theme 'paradox'
+```
 
 Go to System Preferences
 Go to Users and Groups
