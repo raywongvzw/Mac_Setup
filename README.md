@@ -75,6 +75,8 @@ for rcfile in ""${ZDOTDIR:-$HOME}""/.zprezto/runcoms/^README.md(.N); do
 done
 
 $(brew --prefix)/opt/fzf/install
+
+curl -fLo curl ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 
 Add into ~/.zpreztorc
