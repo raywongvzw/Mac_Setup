@@ -69,6 +69,7 @@ A collection of articles/sites/videos I may want to refer to later
 * [fzf](https://github.com/junegunn/fzf)
 * [zsh themes](https://github.com/robbyrussell/oh-my-zsh/wiki/themes)
 * [vim after 15 years](https://statico.github.io/vim3.html)
+* [Mac Setup](http://sourabhbajaj.com/mac-setup/SystemPreferences/)
 
 #### Kubernetes ####
 * [Kubernetes Basic Commands](https://gist.github.com/kevin-smets/b91a34cea662d0c523968472a81788f7)
