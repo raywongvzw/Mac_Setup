@@ -14,6 +14,7 @@ brew cask install --appdir="/Applications" \
     alfred \
     android-file-transfer \
     appcleaner \
+    Caskroom/versions/java8 \
     citrix-receiver \
     cheatsheet \
     docker \
@@ -23,7 +24,6 @@ brew cask install --appdir="/Applications" \
     insomniax \
     iterm2 \
     itsycal \
-    java \
     osxfuse \
     pgadmin4 \
     postman \
