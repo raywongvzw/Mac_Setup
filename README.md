@@ -9,7 +9,7 @@ brew update
 
 ## Brew Cask ##
 ```bash
-"brew cask install --appdir=""/Applications"" \
+brew cask install --appdir="/Applications" \
     alfred \
     android-file-transfer \
     asepsis \
@@ -32,12 +32,12 @@ brew update
     sublime-text \
     the-unarchiver \
     vagrant
-    virtualbox"
+    virtualbox
 ```
 
 ## Brew Install ##
 ```bash
-"brew install \
+brew install \
     ack \
     bash
     chromedriver \
@@ -58,7 +58,7 @@ brew update
     vim \
     wget \
     zsh \
-    zsh-completions"
+    zsh-completions
 ```
 
 ## Post Brew ##
