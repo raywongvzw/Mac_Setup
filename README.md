@@ -13,7 +13,6 @@ brew analytics off
 brew cask install --appdir="/Applications" \
     alfred \
     android-file-transfer \
-    asepsis \
     appcleaner \
     citrix-receiver \
     cheatsheet \
