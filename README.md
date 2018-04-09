@@ -18,6 +18,7 @@ brew cask install --appdir="/Applications" \
     Caskroom/versions/java8 \
     citrix-receiver \
     cheatsheet \
+    cyberduck \
     docker \
     firefox \
     flux \
