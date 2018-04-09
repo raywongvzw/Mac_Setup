@@ -52,6 +52,7 @@ brew install \
     fzf \
     git \
     kubernetes-cli \
+    maven \
     netcat \
     node \
     ntfs-3g \
