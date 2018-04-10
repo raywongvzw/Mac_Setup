@@ -279,4 +279,10 @@ defaults write com.apple.dock workspaces-auto-swoosh -bool NO
 killall Dock
 ```
 
+Prevent Wifi from dropping upon lock
+```bash
+cd /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources && \
+sudo ./airport $(ifconfig | grep -B 6 'status: active' | head -n 1 | cut -d : -f 1) prefs DisconnectOnLogout=NO
+```
+
 
