@@ -68,24 +68,31 @@ brew install \
 
 ## Post Brew ##
 ```bash
+# setup brew zsh as default shell
 sudo dscl . -create /Users/$USER UserShell /usr/local/bin/zsh
 
+# zsh manager
 git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
 
+# zsh dot files
 setopt EXTENDED_GLOB
 for rcfile in ""${ZDOTDIR:-$HOME}""/.zprezto/runcoms/^README.md(.N); do
   ln -s ""$rcfile"" ""${ZDOTDIR:-$HOME}/.${rcfile:t}""
 done
 
+# fzf
 $(brew --prefix)/opt/fzf/install
 
+# vim plug
 curl -fLo curl ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
+# vim dirs
 mkdir -p ~/.vim/swaps
 mkdir -p ~/.vim/backups
 mkdir -p ~/.vim/undo
 mkdir -p ~/.vim/budle
 
+# you complet me vim plugin
 cd ~/.vim/bundle
 git clone https://github.com/Valloric/YouCompleteMe.git
 git submodule update --init --recursive
@@ -95,6 +102,7 @@ git submodule update --init --recursive
 Add into ~/.zpreztorc
 
 ```
+#zsh modules
 zstyle ':prezto:load' pmodule \
   'archive' \
   'autosuggestions' \
@@ -113,6 +121,8 @@ zstyle ':prezto:load' pmodule \
   'syntax-highlighting' \
   'terminal' \
   'utility'
+  
+#zsh theme
 zstyle ':prezto:module:prompt' theme 'paradox'
 ```
 
