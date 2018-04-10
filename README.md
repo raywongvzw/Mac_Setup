@@ -102,7 +102,7 @@ git submodule update --init --recursive
 Add into ~/.zpreztorc
 
 ```
-#zsh modules
+# zsh modules
 zstyle ':prezto:load' pmodule \
   'archive' \
   'autosuggestions' \
@@ -122,7 +122,7 @@ zstyle ':prezto:load' pmodule \
   'terminal' \
   'utility'
   
-#zsh theme
+# zsh theme
 zstyle ':prezto:module:prompt' theme 'paradox'
 ```
 
