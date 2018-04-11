@@ -92,6 +92,9 @@ mkdir -p ~/.vim/backups
 mkdir -p ~/.vim/undo
 mkdir -p ~/.vim/budle
 
+# pip
+mkdir -p ~/.pip
+
 # you complet me vim plugin
 cd ~/.vim/bundle
 git clone https://github.com/Valloric/YouCompleteMe.git
@@ -295,4 +298,8 @@ cd /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resou
 sudo ./airport $(ifconfig | grep -B 6 'status: active' | head -n 1 | cut -d : -f 1) prefs DisconnectOnLogout=NO
 ```
 
-
+Add into ~/.pip/pip.conf
+```bash
+[list]
+format=columns
+```
