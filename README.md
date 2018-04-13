@@ -159,6 +159,12 @@ if _has fzf && _has ag; then
   --color info:108,prompt:109,spinner:108,pointer:168,marker:168
   '
 fi
+
+# aliases
+alias prune='docker system prune -af'
+alias bu='brew update; brew upgrade; brew cleanup; brew doctor'
+alias pip2upgrade="pip2 freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs pip2 install -U"
+alias pip3upgrade="pip3 freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs pip3 install -U"
 ```
 
 Add into .vimrc
