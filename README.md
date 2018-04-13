@@ -85,6 +85,9 @@ done
 # fzf
 $(brew --prefix)/opt/fzf/install
 
+# global git ignore
+git config --global core.excludesfile ~/.gitignore_global
+
 # vim plug
 npm i npm
 curl -fLo curl ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
@@ -94,9 +97,6 @@ mkdir -p ~/.vim/swaps
 mkdir -p ~/.vim/backups
 mkdir -p ~/.vim/undo
 mkdir -p ~/.vim/plugged
-
-# global git ignore
-git config --global core.excludesfile ~/.gitignore_global
 
 # pip
 mkdir -p ~/.pip
