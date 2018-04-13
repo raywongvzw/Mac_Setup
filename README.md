@@ -95,10 +95,13 @@ mkdir -p ~/.vim/backups
 mkdir -p ~/.vim/undo
 mkdir -p ~/.vim/plugged
 
+# global git ignore
+git config --global core.excludesfile ~/.gitignore_global
+
 # pip
 mkdir -p ~/.pip
 
-# you complet me vim plugin
+# you complete me vim plugin
 cd ~/.vim/plugged	
 git clone https://github.com/Valloric/YouCompleteMe.git
 git submodule update --init --recursive
