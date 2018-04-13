@@ -22,6 +22,7 @@ brew cask install --appdir="/Applications" \
     docker \
     firefox \
     flux \
+    gitkraken \
     google-chrome \
     insomniax \
     iterm2 \
