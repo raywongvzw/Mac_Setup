@@ -30,6 +30,7 @@ brew cask install --appdir="/Applications" \
     osxfuse \
     pgadmin4 \
     postman \
+    pycharm-ce \
     skitch \
     spectacle \
     sts \
