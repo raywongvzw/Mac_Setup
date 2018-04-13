@@ -84,6 +84,7 @@ done
 $(brew --prefix)/opt/fzf/install
 
 # vim plug
+npm i npm
 curl -fLo curl ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
 # vim dirs
