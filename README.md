@@ -90,13 +90,13 @@ curl -fLo curl ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercont
 mkdir -p ~/.vim/swaps
 mkdir -p ~/.vim/backups
 mkdir -p ~/.vim/undo
-mkdir -p ~/.vim/budle
+mkdir -p ~/.vim/plugged
 
 # pip
 mkdir -p ~/.pip
 
 # you complet me vim plugin
-cd ~/.vim/bundle
+cd ~/.vim/plugged	
 git clone https://github.com/Valloric/YouCompleteMe.git
 git submodule update --init --recursive
 ./install.py --js-completer --java-completer
