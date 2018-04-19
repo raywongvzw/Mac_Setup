@@ -108,7 +108,7 @@ git submodule update --init --recursive
 ./install.py --js-completer --java-completer
 
 # show all files in finder
-defaults write com.apple.finder AppleShowAllFiles YES
+defaults write com.apple.finder AppleShowAllFiles TRUE;killall Finder
 ```
 
 Add into ~/.zpreztorc
