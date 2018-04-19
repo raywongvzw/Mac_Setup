@@ -106,6 +106,9 @@ cd ~/.vim/plugged
 git clone https://github.com/Valloric/YouCompleteMe.git
 git submodule update --init --recursive
 ./install.py --js-completer --java-completer
+
+# show all files in finder
+defaults write com.apple.finder AppleShowAllFiles YES
 ```
 
 Add into ~/.zpreztorc
