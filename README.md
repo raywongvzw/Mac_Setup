@@ -191,6 +191,7 @@ Add into .vimrc
 if has('python3')
   silent! python3 1
 endif
+
 call plug#begin('~/.vim/plugged')
 Plug 'Valloric/YouCompleteMe'
 Plug 'vim-scripts/indentpython.vim'
