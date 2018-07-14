@@ -101,6 +101,18 @@ mkdir -p ~/.vim/plugged
 # pip
 mkdir -p ~/.pip
 
+pip3 install ansible \
+autopep8
+aws \
+boto \
+boto3 \
+bpython \
+bs4 \
+lxml \
+requests \
+virtualenv \
+virtualenvwrapper
+
 # you complete me vim plugin
 cd ~/.vim/plugged	
 git clone https://github.com/Valloric/YouCompleteMe.git
@@ -176,6 +188,9 @@ alias pip3upgrade="pip3 freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs
 Add into .vimrc
 
 ```bash
+if has('python3')
+  silent! python3 1
+endif
 call plug#begin('~/.vim/plugged')
 Plug 'Valloric/YouCompleteMe'
 Plug 'vim-scripts/indentpython.vim'
