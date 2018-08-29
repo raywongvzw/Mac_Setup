@@ -668,6 +668,7 @@ Extensions
 Ansible
 autoDocString
 Bracket Pair Colorizer
+CloudFormation
 Code Spell Checker
 Docker
 Log File Highlighter
