@@ -1,5 +1,10 @@
 # Mac Setup #
 
+## XCode CLI ##
+```bash
+xcode-select --install
+```
+
 ## Brew ##
 ```bash
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
