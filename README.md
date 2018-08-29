@@ -37,6 +37,7 @@ brew cask install --appdir="/Applications" \
     postman \
     pycharm-ce \
     skitch \
+    sourcetree \
     spectacle \
     sts \
     sublime-text \
