@@ -678,6 +678,7 @@ Path Intellisense
 Python
 Python-autopep8
 Trailing Spaces
+vscode-ansible-linter
 vscode-cfn-lint
 YAML Support by Red Hat
 ```
