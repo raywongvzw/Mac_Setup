@@ -37,7 +37,8 @@ brew cask install --appdir="/Applications" \
     sublime-text \
     the-unarchiver \
     vagrant \
-    virtualbox
+    virtualbox \
+    visual-studio-code
 ```
 
 ## Brew Install ##
@@ -101,17 +102,19 @@ mkdir -p ~/.vim/plugged
 # pip
 mkdir -p ~/.pip
 
-pip3 install ansible \
-autopep8
+pip3 install \
+ansible \
+autopep8 \
 aws \
 boto \
 boto3 \
 bpython \
 bs4 \
+cfn_flip \
 lxml \
-requests \
-virtualenv \
-virtualenvwrapper
+pipenv \
+pylint \
+requests
 
 # you complete me vim plugin
 cd ~/.vim/plugged	
