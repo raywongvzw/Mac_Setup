@@ -161,7 +161,20 @@ zstyle ':prezto:module:prompt' theme 'paradox'
 
 Add this into ~/.zshrc
 ```bash
+# brew
 export HOMEBREW_NO_ANALYTICS=1
+# Only need for coreutils. Everything else is in /usr/local/bin
+# But use gfind, ggrep, etc. Starts with a 'g'
+BREW_PATHS=$(brew --prefix coreutils)/libexec/gnubin
+PATH=$BREW_PATHS:/usr/local/bin:/usr/local/sbin:$PATH
+PATH=/Applications/Postgres.app/Contents/Versions/9.4/bin:$PATH
+export PATH
+
+# Java and Maven
+M2_HOME=/usr/local/Cellar/maven/3.5.3/libexec
+JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home
+PATH=$JAVA_HOME/bin:M2_HOME/bin:$PATH
+export PATH
 
 # fzf via Homebrew
 if [ -e /usr/local/opt/fzf/shell/completion.zsh ]; then
