@@ -109,8 +109,9 @@ mkdir -p ~/.pip
 
 pip3 install \
 ansible \
+ansible-lint \
 autopep8 \
-aws \
+awscli \
 boto \
 boto3 \
 bpython \
