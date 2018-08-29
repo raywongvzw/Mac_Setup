@@ -116,6 +116,7 @@ boto3 \
 bpython \
 bs4 \
 cfn_flip \
+cfn-lint \
 lxml \
 pipenv \
 pylint \
@@ -639,4 +640,38 @@ error_log
 #######################################
 
 *.retry
+```
+
+## vscode ##
+Preferences
+```
+CMD + ,
+"telemetry.enableTelemetry": false,
+"telemetry.enableCrashReporter": false
+```
+
+Extensions
+```
+Ansible
+autoDocString
+Bracket Pair Colorizer
+Code Spell Checker
+Docker
+Log File Highlighter
+Markdown All in One
+Markdown Preview Enhanced
+markdownlint
+Path Intellisense
+Python
+Python-autopep8
+Trailing Spaces
+vscode-cfn-lint
+YAML Support by Red Hat
+```
+
+Settings
+```
+CMD + Shift + P
+Python: Select Interpreter
+
 ```
