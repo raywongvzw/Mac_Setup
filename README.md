@@ -669,6 +669,8 @@ Bracket Pair Colorizer
 CloudFormation
 Code Spell Checker
 Docker
+JSON Escaper
+JSON Tools
 Log File Highlighter
 Markdown All in One
 Markdown Preview Enhanced
