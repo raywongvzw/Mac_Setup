@@ -32,7 +32,7 @@ brew cask install --appdir="/Applications" \
     insomniax \
     iterm2 \
     itsycal \
-    jd-gui \
+    luyten \
     osxfuse \
     pgadmin4 \
     postman \
