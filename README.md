@@ -21,7 +21,7 @@ brew cask install --appdir="/Applications" \
     appcleaner \
     bartender \
     Caskroom/versions/java8 \
-    citrix-receiver \
+    citrix-workspace \
     cheatsheet \
     cyberduck \
     docker \
