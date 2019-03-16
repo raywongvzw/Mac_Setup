@@ -45,7 +45,8 @@ brew cask install --appdir="/Applications" \
     the-unarchiver \
     vagrant \
     virtualbox \
-    visual-studio-code
+    visual-studio-code \
+    webex-teams
 ```
 
 ## Brew Install ##
@@ -69,6 +70,7 @@ brew install \
     openssl \
     python@2 \
     python \
+    tldr \
     tree \
     vim \
     wget \
